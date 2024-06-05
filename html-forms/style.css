@@ -4,4 +4,11 @@ body {
 
 input {
   margin: 5px;
+  width:  300px;
+}
+
+textarea {
+  margin: 5px;
+  width:  300px;
+  height: 150px;
 }
